@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "933820577571",
+    "firebase_url": "https://cmsdb-ffe00-default-rtdb.firebaseio.com",
+    "project_id": "cmsdb-ffe00",
+    "storage_bucket": "cmsdb-ffe00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:b2a7f16102d4be2e5dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:db905a7442b2d5ab5dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.child"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:66f7ca6d510eef4d5dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.child001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:d1b3b8bf313026a65dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.childapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:1a2e6d032f6810155dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933820577571:android:2be9c7306d7ca85f5dfe96",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.spyware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzejHDKIZ8gAJbwwkFzF8cXGxI_3MDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933820577571-nd5dpkcib5b6a0uk98n1vu6i81qvp0rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
